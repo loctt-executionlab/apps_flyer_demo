@@ -1,6 +1,6 @@
 # flutter_deep_link
 
-A new Flutter project.
+Deep link demo using AppsFlyer
 
 ## Getting Started
 
