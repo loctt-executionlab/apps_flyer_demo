@@ -1,4 +1,4 @@
-package com.example.flutter_deep_link
+package asia.executionlab.demoappflyers
 
 import io.flutter.embedding.android.FlutterActivity
 
