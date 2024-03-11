@@ -18,7 +18,7 @@ class AppsFlyerNotifier extends _$AppsFlyerNotifier {
       registerOnAppOpenAttributionCallback: true,
       registerOnDeepLinkingCallback: true,
     );
-
+    sdk.startSDK();
     return sdk;
   }
 }
